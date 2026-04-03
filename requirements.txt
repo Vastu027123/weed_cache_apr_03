@@ -1,0 +1,3 @@
+# Project dependencies
+PyYAML>=6.0
+\nalbumentations\nopencv-python-headless
