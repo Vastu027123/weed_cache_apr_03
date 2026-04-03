@@ -1,0 +1,9 @@
+path: /home/utsav-aste/Downloads/Project_101/weed_0423/dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 3
+names:
+  0: CL
+  1: RPW
+  2: GFT
