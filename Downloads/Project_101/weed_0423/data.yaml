@@ -1,9 +1,0 @@
-names:
-  0: CL
-  1: RPW
-  2: GFT
-nc: 3
-path: /root/weed_cache_apr_03/Downloads/Project_101/weed_0423/dataset
-test: images/test
-train: images/train
-val: images/val
